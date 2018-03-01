@@ -1,0 +1,1 @@
+# experiment-cordova-barcodescanner
