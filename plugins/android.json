@@ -1,0 +1,24 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.experiment.experimentcordovabarcodescanner"
+    },
+    "cordova-plugin-iosrtc": {
+      "PACKAGE_NAME": "com.experiment.experimentcordovabarcodescanner"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.experiment.experimentcordovabarcodescanner"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.experiment.experimentcordovabarcodescanner"
+    }
+  },
+  "dependent_plugins": {}
+}
