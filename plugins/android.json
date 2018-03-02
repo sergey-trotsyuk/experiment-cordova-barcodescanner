@@ -18,6 +18,9 @@
     },
     "cordova-plugin-android-permissions": {
       "PACKAGE_NAME": "com.experiment.experimentcordovabarcodescanner"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "PACKAGE_NAME": "com.experiment.experimentcordovabarcodescanner"
     }
   },
   "dependent_plugins": {}

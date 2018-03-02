@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml",
+            "map": [
+                {
+                    "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f76506e3e0521047fa457e528c4c8b6d/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

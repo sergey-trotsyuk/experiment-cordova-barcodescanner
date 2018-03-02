@@ -1,13 +1,24 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:2:1-15:12
-INJECTED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:2:1-15:12
-INJECTED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:2:1-15:12
-INJECTED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:2:1-15:12
+ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/3f7e5b5891267d74415b5375767f271b/AndroidManifest.xml:17:1-22:12
+MERGED from [:barcodescanner-release-2.1.5:] /Users/sergey/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/e0e39631bf4d32f6c1f3fa9adc4e7372/AndroidManifest.xml:2:1-14:12
 MERGED from [:CordovaLib] /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
-INJECTED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:2:1-15:12
-INJECTED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:2:1-15:12
-INJECTED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/082bfac8ff302ac50aea203abdaf4d92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/498e58f5bbd31ce71d4b810920fd99c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/3143a2ce0ce99a5b632175aa4234733f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/27d8d639fdec38e54f3652bf55d7393f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f76506e3e0521047fa457e528c4c8b6d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/aa605f263f8b37ec7dd44e4f4e48d6f5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/deea5aa16ed38554511dd357317d7c30/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9b7b8cfeb41e17718bcd3a1bd67805b6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9ed14b492119661b8eb6c073efb2126a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
 	package
 		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:2:102-158
 		INJECTED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml
@@ -47,7 +58,9 @@ ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcod
 	android:name
 		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:5:22-62
 application
-ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:6:5-13:19
+ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:6:5-15:19
+MERGED from [:barcodescanner-release-2.1.5:] /Users/sergey/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/e0e39631bf4d32f6c1f3fa9adc4e7372/AndroidManifest.xml:11:5-12:19
+MERGED from [:barcodescanner-release-2.1.5:] /Users/sergey/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/e0e39631bf4d32f6c1f3fa9adc4e7372/AndroidManifest.xml:11:5-12:19
 	android:supportsRtl
 		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:6:114-140
 	android:label
@@ -82,11 +95,63 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:10:17-77
 	android:name
 		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:10:27-74
+activity#com.google.zxing.client.android.CaptureActivity
+ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:13:9-311
+	android:clearTaskOnLaunch
+		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:13:19-51
+	android:windowSoftInputMode
+		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:13:261-308
+	android:exported
+		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:13:114-138
+	android:configChanges
+		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:13:52-113
+	android:theme
+		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:13:202-260
+	android:name
+		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:13:139-201
+activity#com.google.zxing.client.android.encode.EncodeActivity
+ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:14:9-112
+	android:label
+		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:14:19-40
+	android:name
+		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:14:41-109
 uses-sdk
-ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:14:5-74
+ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:16:5-74
+MERGED from [com.android.support:support-v4:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/3f7e5b5891267d74415b5375767f271b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/3f7e5b5891267d74415b5375767f271b/AndroidManifest.xml:20:5-44
+MERGED from [:barcodescanner-release-2.1.5:] /Users/sergey/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/e0e39631bf4d32f6c1f3fa9adc4e7372/AndroidManifest.xml:7:5-9:41
+MERGED from [:barcodescanner-release-2.1.5:] /Users/sergey/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/e0e39631bf4d32f6c1f3fa9adc4e7372/AndroidManifest.xml:7:5-9:41
 MERGED from [:CordovaLib] /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
 MERGED from [:CordovaLib] /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/082bfac8ff302ac50aea203abdaf4d92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/082bfac8ff302ac50aea203abdaf4d92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/498e58f5bbd31ce71d4b810920fd99c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/498e58f5bbd31ce71d4b810920fd99c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/3143a2ce0ce99a5b632175aa4234733f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/3143a2ce0ce99a5b632175aa4234733f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/27d8d639fdec38e54f3652bf55d7393f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/27d8d639fdec38e54f3652bf55d7393f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f76506e3e0521047fa457e528c4c8b6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f76506e3e0521047fa457e528c4c8b6d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/aa605f263f8b37ec7dd44e4f4e48d6f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/aa605f263f8b37ec7dd44e4f4e48d6f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/deea5aa16ed38554511dd357317d7c30/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/deea5aa16ed38554511dd357317d7c30/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9b7b8cfeb41e17718bcd3a1bd67805b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9b7b8cfeb41e17718bcd3a1bd67805b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9ed14b492119661b8eb6c073efb2126a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sergey/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9ed14b492119661b8eb6c073efb2126a/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:14:42-71
+		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:16:42-71
 	android:minSdkVersion
-		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:14:15-41
+		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:16:15-41
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:17:5-69
+	android:name
+		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:17:22-66
+uses-feature#android.hardware.camera
+ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:18:5-84
+	android:required
+		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:18:58-81
+	android:name
+		ADDED from /Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/src/main/AndroidManifest.xml:18:19-57

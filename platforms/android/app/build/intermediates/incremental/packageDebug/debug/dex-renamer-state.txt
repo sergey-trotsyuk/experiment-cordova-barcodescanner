@@ -1,4 +1,4 @@
-#Thu Mar 01 13:27:55 EET 2018
+#Fri Mar 02 15:34:33 EET 2018
 base.0=/Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 file.0=/Users/sergey/Projects/APC-FIA-Epam/Sources/experiment-cordova-barcodescanner/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

@@ -23,10 +23,16 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
         <hook src="hooks/iosrtc-swift-support.js" type="after_platform_add" />
+        <config-file parent="NSCameraUsageDescription" target="*-Info.plist">
+            <string>Blink uses your camera to make video calls.</string>
+        </config-file>
     </platform>
     <plugin name="cordova-plugin-device" spec="^2.0.1" />
     <plugin name="cordova-plugin-iosrtc" spec="^4.0.2" />
     <plugin name="cordova-plugin-android-permissions" spec="^1.0.0" />
+    <plugin name="phonegap-plugin-barcodescanner" spec="^7.0.2">
+        <variable name="CAMERA_USAGE_DESCRIPTION" value=" " />
+    </plugin>
     <engine name="ios" spec="^4.5.4" />
     <engine name="android" spec="^7.0.0" />
 </widget>
